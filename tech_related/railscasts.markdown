@@ -8,4 +8,9 @@ need a way to rank the rails casts, and record which one you already learn in or
 
 3. need a way to check and quick find which one is the best resource
 
+
+
 4. if you done the cast, you should be able to ask question about the record to certain person
+
+
+5. 
